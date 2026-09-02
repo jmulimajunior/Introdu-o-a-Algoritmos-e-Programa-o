@@ -63,8 +63,7 @@ BibliotecaMunicipal/
 1. Clonar o repositório:
 
    ```bash
-   git clone <URL-DO-REPOSITORIO>
-   cd BibliotecaMunicipal
+   https://github.com/jmulimajunior/Introdu-o-a-Algoritmos-e-Programa-o.git
    ```
 
 2. Compilar os ficheiros-fonte:
