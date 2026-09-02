@@ -5,19 +5,19 @@ da Biblioteca Municipal na gestão do inventário de livros, no registo de
 utilizadores e no controlo de empréstimos e devoluções.
 
 Trabalho de Campo da disciplina de **Introdução a Algoritmos e Programação**,
-Curso de Licenciatura em Engenharia Informática — UnISCED.
+Curso de Licenciatura em Engenharia Informática, UnISCED.
 
 ## Funcionalidades
 
-- **Registo de Livros** — inserir novos títulos no catálogo (identificador
+- **Registo de Livros**: inserir novos títulos no catálogo (identificador
   único gerado automaticamente, título, autor, ano de publicação e
   quantidade de exemplares disponíveis).
-- **Consulta de Catálogo** — listar todos os livros ou pesquisar por autor
+- **Consulta de Catálogo**: listar todos os livros ou pesquisar por autor
   ou por título.
-- **Registo de Utilizadores** — inserir novos leitores no sistema.
-- **Gestão de Empréstimos** — emprestar um livro a um utilizador registado
+- **Registo de Utilizadores**: inserir novos leitores no sistema.
+- **Gestão de Empréstimos**: emprestar um livro a um utilizador registado
   (com verificação de stock) e registar a respectiva devolução.
-- **Estatísticas** — livro mais emprestado e número total de livros
+- **Estatísticas**: livro mais emprestado e número total de livros
   requisitados.
 
 ## Estruturas de dados
@@ -134,7 +134,7 @@ claras nos seguintes casos, entre outros:
 
 ## Autor
 
-Joaquim Pascoal Mulima Júnior — Trabalho de Campo, Introdução a Algoritmos e Programação, UnISCED.
+Joaquim Pascoal Mulima Júnior, Trabalho de Campo, Introdução a Algoritmos e Programação, UnISCED.
 
 ## Licença
 
